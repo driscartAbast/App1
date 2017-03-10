@@ -26,6 +26,7 @@ namespace App1
         {
             this.InitializeComponent();
             System.Diagnostics.Debugger.Launch();
+            System.Diagnostics.Debugger.Launch();
         }
     }
 }
